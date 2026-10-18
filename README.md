@@ -1,2 +1,2 @@
 # Gallery-
-https://github.com/spinorama/Gallery-
+https://spinorama.github.io/Gallery-
